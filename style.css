@@ -1,12 +1,12 @@
  h1{
 
   font-family: Arial;
-  color:turquoise;
+  color:purple;
 }
 
  h2{
   font-family: verdana;
-  color:turquoise;
+  color:purple;
 }
 
 p{
@@ -14,7 +14,7 @@ p{
 }
 
 body {
-    background-color: #33ccff;
+    background-color: #40e0d0;
 }
 .main-list li{
  font-size: 25px;
